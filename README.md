@@ -6,5 +6,6 @@
 Для использования этого меню тебе нужно распаковать данный архив в папку "valve". ПАРОЛЬ АРХИВА - 1999
 Скачать тут - https://github.com/XDe0/CMD-Menu/releases
 # Исходники
-Видео-презентация: https://youtu.be/GCazWIKmKvU
+Видео-презентация: [YouTube] 
+(https://youtu.be/GCazWIKmKvU)
 Спасибо @Alprnn357 за помощь и туториал
